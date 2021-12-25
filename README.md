@@ -1,7 +1,8 @@
 # Hii Welcome
 
- 🔭 I’m currently Study At Dian Nuswantoro University
+- 🔭 I’m currently Study At Dian Nuswantoro University
 - 🌱 I’m currently learning Web App Javascript Based
+<!-- - 🌟 I’m currently build SemarFood App, just like gofood but different -->
 
 <!-- <div align = "center">
 
