@@ -2,7 +2,6 @@
 
  🔭 I’m currently Study At Dian Nuswantoro University
 - 🌱 I’m currently learning Web App Javascript Based
-<!-- - 📫 How to reach me : -->
 
 <!-- <div align = "center">
 
@@ -13,7 +12,7 @@
 </div> -->
 
 <div>
-  <img align="left" width="400" class='maximal' src="https://github-readme-stats.vercel.app/api?username=shironim&show_icons=true&hide_border=false&line_height=30&icon_color=1b93c9&show_owner=true&count_private=true&hide=contribs,prs"/>
+  <img align="left" width="450" class='maximal' src="https://github-readme-stats.vercel.app/api?username=shironim&show_icons=true&hide_border=false&line_height=30&icon_color=1b93c9&show_owner=true&count_private=true&hide=contribs,prs"/>
   
  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shironim&hide=c%23&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats"/>
   
