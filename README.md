@@ -1,5 +1,26 @@
-I'm a fresh graduate in Informatics Engineering, I am interested in Web Technology. I am enthusiastic to explore the application of technology to real-world challenges. I can work with a team and am willing to provide or get different perspectives for work improvement. I always want to try something new to help me get added value for myself or others. Now I am still focusing on learning javascript programming language and its implementation for frontend and backend, currently I am learning more frontend technologies such as Vue.js and Nuxt.js and always want to learn more. I am looking for opportunities to collaborate with passionate professionals and continue to develop my expertise in this field.
+# Hi there, I'm Dimas Seto 👋
 
+Software Engineer focused on building modern, performant web applications and leveraging AI-native development workflows. I specialize in the JavaScript/TypeScript and PHP ecosystems, crafting clean user interfaces and robust architectures.
+
+---
+
+### 🚀 What I Do
+* 💻 **Web Engineering:** Building end-to-end web applications with **Vue.js, Nuxt.js, Next.js, and modern backend architectures**.
+* 🤖 **AI Native Engineering:** Accelerating development and automating workflows using agentic environments and modern coding agents.
+* 🎨 **Prototyping to Production:** Designing clear UI/UX flows and wireframes before turning them into production-ready code.
+
+---
+
+### 🛠️ Tech Stack & Workflow
+
+* **Languages & Core:** JavaScript (ES6+), TypeScript, PHP, Python, HTML5/CSS3
+* **Frontend:** Vue.js, Nuxt.js, Next.js, Tailwind CSS
+* **Backend:** Node.js, Laravel, RESTful APIs
+* **AI & Agentic Workflows:** Google Antigravity, OpenCode, Goose
+* **Design & Prototyping:** Pencil (.dev), Figma
+* **Environment & Tools:** Git, WSL2, Docker
+
+---
+
+### 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dimasseto/)
-
-
