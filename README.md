@@ -19,8 +19,3 @@ Software Engineer focused on building modern, performant web applications and le
 * **AI & Agentic Workflows:** Google Antigravity, OpenCode, Goose
 * **Design & Prototyping:** Pencil (.dev), Figma
 * **Environment & Tools:** Git, WSL2, Docker
-
----
-
-### 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dimasseto/)
